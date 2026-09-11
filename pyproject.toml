@@ -1,0 +1,9 @@
+[project]
+name = "fastapi-devops-workflow"
+version = "0.1.0"
+description = "This is a sample FastAPI application."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.141.1",
+]
