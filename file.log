@@ -1,0 +1,30 @@
+2026-09-11 18:13:34 | INFO     | Application startup complete
+2026-09-11 18:13:34 | INFO     | Application startup complete.
+2026-09-11 18:13:34 | INFO     | Application startup complete.
+2026-09-11 18:13:39 | INFO     | Root endpoint called
+2026-09-11 18:13:39 | INFO     | 127.0.0.1:55620 - "GET / HTTP/1.1" 200
+2026-09-11 18:13:42 | INFO     | Root endpoint called
+2026-09-11 18:13:42 | INFO     | 127.0.0.1:55620 - "GET / HTTP/1.1" 200
+2026-09-11 18:14:05 | INFO     | Shutting down
+2026-09-11 18:14:05 | INFO     | Shutting down
+2026-09-11 18:14:05 | INFO     | Waiting for application shutdown.
+2026-09-11 18:14:05 | INFO     | Waiting for application shutdown.
+2026-09-11 18:14:05 | INFO     | Application shutdown complete.
+2026-09-11 18:14:05 | INFO     | Application shutdown complete.
+2026-09-11 18:14:05 | INFO     | Finished server process [13212]
+2026-09-11 18:14:05 | INFO     | Finished server process [13212]
+2026-09-11 18:16:17 | INFO     | Application startup complete
+2026-09-11 18:16:17 | INFO     | Application startup complete.
+2026-09-11 18:16:17 | INFO     | Application startup complete.
+2026-09-11 18:16:17 | INFO     | Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-09-11 18:16:17 | INFO     | Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-09-11 18:17:01 | INFO     | Health check endpoint called
+2026-09-11 18:17:01 | INFO     | 127.0.0.1:52999 - "GET /health HTTP/1.1" 200
+2026-09-11 18:17:34 | INFO     | Shutting down
+2026-09-11 18:17:34 | INFO     | Shutting down
+2026-09-11 18:17:34 | INFO     | Waiting for application shutdown.
+2026-09-11 18:17:34 | INFO     | Waiting for application shutdown.
+2026-09-11 18:17:34 | INFO     | Application shutdown complete.
+2026-09-11 18:17:34 | INFO     | Application shutdown complete.
+2026-09-11 18:17:34 | INFO     | Finished server process [20248]
+2026-09-11 18:17:34 | INFO     | Finished server process [20248]
