@@ -1,0 +1,16 @@
+default_install_hook_types:
+  - pre-commit
+  - post-checkout
+  - post-merge
+  - post-rewrite
+
+repos:
+  # This is a sample pre-commit configuration file. See the documentation for more information:
+  - repo: https://github.com/astral-sh/uv-pre-commit
+    # uv version.
+    rev: 0.12.13
+    hooks:
+      - id: uv-lock
+      - id: uv-sync
+      - id: uv-export
+        args: [--frozen]
